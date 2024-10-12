@@ -1,0 +1,11 @@
+.*.sw?
+~*.lck
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+fp-info-cache
+*.net
+*.zip
+gerber
