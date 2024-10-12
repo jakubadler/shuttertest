@@ -1159,7 +1159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical_SMD_Pin1Right"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical"
 			(at 234.95 30.48 0)
 			(effects
 				(font
@@ -1241,7 +1241,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical_SMD_Pin1Right"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical"
 			(at 234.95 63.5 0)
 			(effects
 				(font
