@@ -160,6 +160,7 @@
 	(net 83 "GND2")
 	(net 84 "VDD")
 	(net 85 "unconnected-(D3-A-Pad2)")
+	(net 86 "Net-(R17-Pad1)")
 	(footprint "Button_Switch_SMD:SW_SPST_TL3305A"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-000062078313")
@@ -213,7 +214,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00006206b4b5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -659,7 +660,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/00000000-0000-0000-0000-00006208ddb7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -828,7 +829,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/00000000-0000-0000-0000-00006205a116")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1049,7 +1050,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000062053e17")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1248,7 +1249,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/6dde2020-f01f-4f51-8456-b7f454c4c681")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1447,7 +1448,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/0067a0c6-2341-46a8-ad55-3356faaf6444")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1646,7 +1647,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/d602e65a-2070-48a7-a599-b69810657a16")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1910,7 +1911,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7498b6c8-ee15-4f0c-a0d1-fd2e86e1bf38/c86d4d44-9e6d-4afb-8ab6-bcc3f9a5a20a")
-		(sheetname "Programmer")
+		(sheetname "/Programmer/")
 		(sheetfile "programmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2229,7 +2230,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/3ea28864-a65e-4958-ae91-05085b92c7e6")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2546,7 +2547,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/61af8ae2-0a62-4f3d-8ca9-b060f377bb1f")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2745,7 +2746,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f99fa007-19f5-4d5e-be45-046ba289ad1a")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3107,7 +3108,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/cd2fc983-b343-4bef-87a5-4ef3d79fa0a7")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3308,7 +3309,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/2729ddb6-a8b7-4d2c-be32-0c4d00a8fdd5")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3626,7 +3627,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/1096ced4-ec8e-45f9-af68-16e38d51132c")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3999,7 +4000,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/8115344f-23c0-484c-a2d8-e323c91f2195")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4198,7 +4199,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/c2d273ee-6667-4821-a046-e28d005cdb73")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4571,7 +4572,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/323aa381-97a8-42db-89a4-3849f9e18772")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4833,7 +4834,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/e1015e14-64bf-45f5-8f06-36e2de13242b")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5032,7 +5033,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f75f21c6-f16a-49d1-a9bf-610a57dc7f27")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5342,7 +5343,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/cd185c0c-4ddd-40de-bcbb-3994449cca1f")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5541,7 +5542,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f2406182-74a2-4247-b56b-bd2c402af1a5")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5742,7 +5743,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/2b44fecb-5071-4967-b667-22903a7b4e46")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5941,7 +5942,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f172e016-140e-4bc0-8a5a-df92d434e6ea")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6441,7 +6442,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/711c5f8c-6bf3-4f0c-881c-0af30115e5ae")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6703,7 +6704,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/af3249ae-0a61-42f8-9de9-9fa82aa29a2f")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6902,7 +6903,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f9445dff-6700-4caa-80d6-daccd5e92af6")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7164,7 +7165,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/9fda3364-7135-4e11-b2ab-cd1612237c82")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7585,7 +7586,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/842cf3dc-1b9c-4bf9-ab1e-730712711020")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7895,7 +7896,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/a03bbc28-9e86-4067-80d4-a4663bae2024")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8096,7 +8097,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/f419813c-d073-4042-91e5-0f500d08b0a9")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8297,7 +8298,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/27a122c4-68e7-4ae7-b25e-22ddcd675e39")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8497,7 +8498,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/c763def8-e1f9-47db-9cda-a254cc0ab3df")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8750,7 +8751,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/a06c0435-96d4-4af3-bc04-23b892181a5b")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8949,7 +8950,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/61cacc89-f446-4b9d-9d1d-e05ccb1d942d")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9148,7 +9149,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/e7a917b4-67f3-4f61-b3ec-f3086a9a3765")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9521,7 +9522,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/e1097fa2-7ae6-49a8-9e4a-ece76e1f6268")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9720,7 +9721,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/18abded7-cc1d-4145-be8d-715e56b144b1")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9919,7 +9920,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/22a286ff-c625-4937-86d5-c8ad04720dc6")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10181,7 +10182,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/cc0d67e3-4758-469f-b9c9-2869ae31f22b")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10380,7 +10381,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/b7cd2d81-c79a-41a4-8fbe-60f122c6c24b")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10692,7 +10693,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7498b6c8-ee15-4f0c-a0d1-fd2e86e1bf38/99babca1-0170-4ef6-af0c-1552c36920ac")
-		(sheetname "Programmer")
+		(sheetname "/Programmer/")
 		(sheetfile "programmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11120,7 +11121,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/3cd05829-b783-42ae-b48c-346e67e7c146")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11430,7 +11431,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/fc06363f-2316-4240-aaf3-bf886e91d534")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11629,7 +11630,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/af79ba48-e209-4863-aa35-f76f7274f858")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11792,7 +11793,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "220"
 			(at -0.175 -3.75 90)
 			(layer "B.Fab")
 			(uuid "b15e40ff-a202-420d-8d55-6bc494c90a9f")
@@ -11830,7 +11831,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/00000000-0000-0000-0000-00006209615d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12139,7 +12140,7 @@
 			(at -2.75 0 90)
 			(size 2 1.3)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(net 1 "GND")
+			(net 86 "Net-(R17-Pad1)")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "bf1d11b3-4dfc-4f1d-9b08-346c20821dcc")
@@ -12148,7 +12149,7 @@
 			(at 2.75 -1.15 90)
 			(size 1.3 1.3)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(net 1 "GND")
+			(net 86 "Net-(R17-Pad1)")
 			(pinfunction "3")
 			(pintype "passive")
 			(uuid "41fa20a9-9307-451e-8fb6-1a2ece750703")
@@ -12222,7 +12223,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006201ab0f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12424,7 +12425,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000061df6afd")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12626,7 +12627,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000061df6f8f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12828,7 +12829,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/00000000-0000-0000-0000-000061df65b6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13082,7 +13083,7 @@
 		)
 		(property ki_fp_filters "TQFP*7x7mm*P0.8mm*")
 		(path "/760758bd-7f85-4b90-8138-443146d6eea8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13636,7 +13637,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000061fb31d7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14192,7 +14193,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000062046d96")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14394,7 +14395,7 @@
 		)
 		(property ki_fp_filters "Osram*SMD*DIL2*4.5x4.0mm*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/b749dcae-ed4f-4a1c-836f-cc92a22c70a5")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14817,7 +14818,7 @@
 		)
 		(property ki_fp_filters "Osram*SMD*DIL2*4.5x4.0mm*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/0a37d821-dbec-4b43-a9cf-24c9436fc4b9")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15239,7 +15240,7 @@
 			)
 		)
 		(path "/9b2fc5bd-0243-4d91-b155-d9c2e15c1500")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15783,7 +15784,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e35fce0b-64af-4cdb-b304-f76492dd2c7b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16103,7 +16104,7 @@
 		)
 		(property ki_fp_filters "Osram*SMD*DIL2*4.5x4.0mm*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/9fd40527-9256-4ac8-96a7-412b4acf0b5b")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16526,7 +16527,7 @@
 		)
 		(property ki_fp_filters "Osram*SMD*DIL2*4.5x4.0mm*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/0534d5c9-1cee-4e20-9f9c-ea4d03e3f1a4")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16949,7 +16950,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/46668c88-3f06-41f8-b568-1e6389e30b47")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -17213,6 +17214,210 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(layer "B.Cu")
+		(uuid "bf94bcb6-0bb0-4bb4-908a-714c6d36a637")
+		(at 80.264 59.436 90)
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R17"
+			(at 0 1.65 90)
+			(layer "B.SilkS")
+			(uuid "5f3b8181-0fba-49e0-b93b-871c43f09588")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "68"
+			(at 0 -1.65 90)
+			(layer "B.Fab")
+			(uuid "bda65597-3f7e-4be8-840a-82766113634f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "11492557-6404-4bf4-b6d3-5904e2022e56")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "317c342a-c733-4e1a-ab11-3c27929af649")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/6ad46c63-c74a-4aa8-ad28-a1790b8fd974")
+		(sheetname "/")
+		(sheetfile "shuttertest.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -0.227064 -0.735)
+			(end 0.227064 -0.735)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "92ee50bc-d422-4a34-bfdd-3ccf1c060ae7")
+		)
+		(fp_line
+			(start -0.227064 0.735)
+			(end 0.227064 0.735)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "6ffbba4e-09b4-4e33-ad91-2600a8f826e5")
+		)
+		(fp_line
+			(start 1.85 -0.95)
+			(end -1.85 -0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "b8207d71-2ab5-48ac-9a9f-8d0128fc6a23")
+		)
+		(fp_line
+			(start -1.85 -0.95)
+			(end -1.85 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "2a4603ae-a4e8-46a5-945d-746fa65dc99d")
+		)
+		(fp_line
+			(start 1.85 0.95)
+			(end 1.85 -0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "93ed5a5c-af70-47d7-ac4a-3df85050c7d4")
+		)
+		(fp_line
+			(start -1.85 0.95)
+			(end 1.85 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "60c35578-878d-42ee-ab9e-07d06eacf3cf")
+		)
+		(fp_line
+			(start 1 -0.625)
+			(end -1 -0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e9fd4b61-dfc3-4a61-8bda-afbcc7806193")
+		)
+		(fp_line
+			(start -1 -0.625)
+			(end -1 0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "2b05cce5-ee48-4a64-b13e-9d5edb494b72")
+		)
+		(fp_line
+			(start 1 0.625)
+			(end 1 -0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "2db4c991-368c-427c-a973-b093fd4a8cfa")
+		)
+		(fp_line
+			(start -1 0.625)
+			(end 1 0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "d471555f-8e86-481f-a3f3-d1461af6abc7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(uuid "a575aec7-b165-41c3-b2fa-0ad0f77b96b3")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.08)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1 0 90)
+			(size 1.2 1.4)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.208333)
+			(net 86 "Net-(R17-Pad1)")
+			(pintype "passive")
+			(uuid "843653ee-4c9a-472a-a831-1cfb0bf59e26")
+		)
+		(pad "2" smd roundrect
+			(at 1 0 90)
+			(size 1.2 1.4)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.208333)
+			(net 1 "GND")
+			(pintype "passive")
+			(uuid "f49ed0db-4ec4-4d21-aa43-38f8709876ce")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "cc903815-a9fb-440c-b7fe-6fd26b2286a3")
@@ -17273,7 +17478,7 @@
 		)
 		(property ki_fp_filters "IDC?Header*2x03* Pin?Header*2x03*")
 		(path "/7498b6c8-ee15-4f0c-a0d1-fd2e86e1bf38/54a3c8cc-ab18-4123-bd35-400800541edc")
-		(sheetname "Programmer")
+		(sheetname "/Programmer/")
 		(sheetfile "programmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -17593,7 +17798,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d1fa97b9-ce89-4953-9b92-e48694133476")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "shuttertest.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17795,7 +18000,7 @@
 		)
 		(property ki_fp_filters "Osram*SMD*DIL2*4.5x4.0mm*")
 		(path "/055c508c-3b1d-418a-a809-398b6f637be4/a3710d80-8522-47d2-bf86-a4928e4b7b17")
-		(sheetname "135_sensor")
+		(sheetname "/135_sensor/")
 		(sheetfile "135_sensor.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18445,6 +18650,14 @@
 		(uuid "60e08a73-c1ab-4e96-b7fe-0c36b7af5aa1")
 	)
 	(segment
+		(start 85.5595 58.42)
+		(end 80.28 58.42)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "0aecc557-589f-4a8e-9262-29c7295e60fe")
+	)
+	(segment
 		(start 107.9285 38.354)
 		(end 107.9285 40.894)
 		(width 0.25)
@@ -18485,20 +18698,28 @@
 		(uuid "270e0bd5-e45d-4251-b4dc-14253b3fb1ee")
 	)
 	(segment
+		(start 85.5595 56.1725)
+		(end 85.5595 58.42)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "29a4b3e4-ffe9-482a-9ae3-cef8e929416b")
+	)
+	(segment
+		(start 80.28 58.42)
+		(end 80.264 58.436)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "2b22614e-c61f-4da0-aa53-c3398c5ad986")
+	)
+	(segment
 		(start 116.409 64.77)
 		(end 117.824208 63.354792)
 		(width 0.25)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "2b3cadad-7fd1-4ec5-ba60-8dac9f8ba3c5")
-	)
-	(segment
-		(start 85.972 61.969)
-		(end 85.972 60.794)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "33254b53-a028-423a-9ed5-34399b5e7536")
 	)
 	(segment
 		(start 115.683507 53.594)
@@ -18541,14 +18762,6 @@
 		(uuid "4d647833-7022-4cf0-895c-a511529b5120")
 	)
 	(segment
-		(start 87.122 63.119)
-		(end 87.122 66.294)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "4ffca08a-c1ad-4bb7-b88c-414344db38da")
-	)
-	(segment
 		(start 117.824208 61.509)
 		(end 120.396 58.937208)
 		(width 0.25)
@@ -18581,6 +18794,14 @@
 		(uuid "83ece804-6d10-4317-8984-38da3ee01984")
 	)
 	(segment
+		(start 95.25 46.482)
+		(end 85.5595 56.1725)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "94a5363d-210f-4396-8236-7d88a82f7b04")
+	)
+	(segment
 		(start 102.0495 52.7735)
 		(end 96.012 46.736)
 		(width 0.25)
@@ -18605,28 +18826,12 @@
 		(uuid "acda05f9-2bb4-44a8-9bfb-e72c49f5f8af")
 	)
 	(segment
-		(start 85.5595 58.42)
-		(end 85.5595 60.3815)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "afb3462c-8c72-4052-bf52-c2288e42b2ea")
-	)
-	(segment
 		(start 102.0495 50.1065)
 		(end 97.917 45.974)
 		(width 0.25)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "b2304af4-82e0-4610-99bd-3b14859defa2")
-	)
-	(segment
-		(start 77.724 55.626)
-		(end 85.598 55.626)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "b925bc71-9f6e-413d-9874-2f1380db316e")
 	)
 	(segment
 		(start 93.472 45.974)
@@ -18637,20 +18842,12 @@
 		(uuid "c54bd5cb-1825-4952-93ca-d7f63a399cfc")
 	)
 	(segment
-		(start 85.598 55.626)
-		(end 86.106 55.626)
+		(start 77.724 55.626)
+		(end 80.264 58.166)
 		(width 0.25)
 		(layer "B.Cu")
 		(net 1)
-		(uuid "cac64e15-a59c-4b7e-a3d5-1776ae5753eb")
-	)
-	(segment
-		(start 85.5595 60.3815)
-		(end 85.972 60.794)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "da8851fd-ef23-4b95-b350-41d888e5440c")
+		(uuid "c9c76b1e-6779-416f-8c29-2b6682e51426")
 	)
 	(segment
 		(start 121.036 56.534)
@@ -18677,28 +18874,12 @@
 		(uuid "dffff4a6-85fe-4009-a4b1-e4950693dc11")
 	)
 	(segment
-		(start 87.122 63.119)
-		(end 85.972 61.969)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "ea70efd0-1eed-4911-a5fd-500940363299")
-	)
-	(segment
 		(start 107.95 40.894)
 		(end 109.728 42.672)
 		(width 0.25)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "efe5290b-4c01-401c-96c5-a9fb3411769a")
-	)
-	(segment
-		(start 86.106 55.626)
-		(end 95.25 46.482)
-		(width 0.25)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "f0aae98c-b072-4f5f-8894-d73e72ab273d")
 	)
 	(segment
 		(start 101.854 40.894)
@@ -18709,12 +18890,12 @@
 		(uuid "f350a630-b53c-4471-8c42-3e764706edf8")
 	)
 	(segment
-		(start 85.598 55.626)
-		(end 85.598 58.3815)
+		(start 80.264 58.166)
+		(end 80.264 58.436)
 		(width 0.25)
 		(layer "B.Cu")
 		(net 1)
-		(uuid "fc7642ad-ce06-45ca-8508-925ce081ccd9")
+		(uuid "f9ee9bd3-99df-4a50-aa56-3811f7eb6578")
 	)
 	(segment
 		(start 120.396 58.937208)
@@ -22435,6 +22616,54 @@
 		(layer "B.Cu")
 		(net 85)
 		(uuid "ef39a542-a78e-47e0-ae88-f0b144552dcb")
+	)
+	(segment
+		(start 85.972 60.794)
+		(end 80.622 60.794)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "219f3c10-d9e4-4c4c-a8cc-66a573f2a943")
+	)
+	(segment
+		(start 85.972 61.969)
+		(end 85.972 60.794)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "33254b53-a028-423a-9ed5-34399b5e7536")
+	)
+	(segment
+		(start 87.122 63.119)
+		(end 87.122 66.294)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "4ffca08a-c1ad-4bb7-b88c-414344db38da")
+	)
+	(segment
+		(start 80.622 60.794)
+		(end 80.264 60.436)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "a96251c2-f8c9-4fa0-b060-6df1bc1e0576")
+	)
+	(segment
+		(start 85.5595 60.3815)
+		(end 85.972 60.794)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "da8851fd-ef23-4b95-b350-41d888e5440c")
+	)
+	(segment
+		(start 87.122 63.119)
+		(end 85.972 61.969)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 86)
+		(uuid "ea70efd0-1eed-4911-a5fd-500940363299")
 	)
 	(embedded_fonts no)
 )
